@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the surrender of the old charter of Northampton, September the 26, and the manner of their receiving their new charter, &amp;c together with an eloquent speech made by Robert Clerk, Esq. (Deputy Recorder of Northampton) upon that occasion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26021</idno>
+            <idno type="STC">Wing A398</idno>
+            <idno type="STC">ESTC R23101</idno>
+            <idno type="EEBO-CITATION">12623682</idno>
+            <idno type="OCLC">ocm 12623682</idno>
+            <idno type="VID">64597</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26021)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64597)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 339:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the surrender of the old charter of Northampton, September the 26, and the manner of their receiving their new charter, &amp;c together with an eloquent speech made by Robert Clerk, Esq. (Deputy Recorder of Northampton) upon that occasion.</title>
+                  <author>Clerk, Robert.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Northampton (England) --  Charters, grants, privileges.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:64597:1" rendition="simple:additions"/>
+            <head>An Account of the Surrender of the Old CHARTER OF Northampton, <hi>September</hi> the 26. and the manner of Their Receiving Their New <hi>Charter,</hi> &amp;c.</head>
+            <head type="sub">Together with an Eloquent Speech made by <hi>Robert Clerk</hi> Eſq; (Deputy Recorder of <hi>Northampton)</hi> upon that Occaſion.</head>
+            <p>YEſterday, the Mayor, Aldermen, Bayliffs and Burgeſſes, walk'd in their Formalities to the Limits of the Town; and met the Right Honourable the Earl of <hi>Peterbourgh,</hi> Lord Lieutenant of the County, and High Recorder of the Town: accompanied with a great confluence of Nobility and Gentry on Horſe-back; and attended by a body of the County Horſe. My Lord alighting, preſented a new <hi>Charter</hi> from the King, with an Excellent Diſcourſe upon the Gracious favour of His Majeſty to the Town. The Mayor in the name of the new <hi>Corporation,</hi> humbly receivied it on his Knees, with due Re<g ref="char:EOLhyphen"/>verence, Joy, and gratitude of mind.</p>
+            <p>When this was done, my Lord mounted again on Horſe-back; the Mayor, Aldermen, Bayliffs, and Burgeſſes, leading the way to the Town-Hall, the <hi>Charter</hi> being carried before them by the Town-Clerk bare-headed: the Trumpets ſoun<g ref="char:EOLhyphen"/>ding, Bells Ringing, and Wind-Muſick playing aloud. When they came to the Hall, the <hi>Charter</hi> was read, which being done, <hi>Robert Clerk</hi> Eſq; our Deputy Recorder, made the in<g ref="char:EOLhyphen"/>cloſed Speech, a true Copy whereof is here incerted, After this, they were all entertain'd at a ſplendid Dinner by the <hi>Corporation,</hi> and with great rejoycing, they did Solemnly and Soberly conclude that happy day.</p>
+            <p>
+               <hi>Mr.</hi> Mayor, and You the Gentlemen of the <hi>Corporation.</hi>
+            </p>
+            <p>
+               <hi>BY the Bounty of His Majeſty, and His Royal Progenitors Kings of</hi> England, <hi>you have had great Priviledges and Freedoms beſtowed upon you.</hi>
+            </p>
+            <p>
+               <hi>They have likewiſe put ſo much confidence in you, as to truſt you with a great ſhare of the Government of this Town.</hi>
+            </p>
+            <p>
+               <hi>But ſo it fell out, that certain evil men have lately crept into Au<g ref="char:EOLhyphen"/>thority among you, and by their Stubborn and Seditious Practices, have abuſed this Truſt, and forfeited thoſe Liberties: You did Judge right, when you apprehended theſe ill conſequences ſprang originally from ſome defect in your</hi> Charter.</p>
+            <pb n="2" facs="tcp:64597:2"/>
+            <p> 
+               <hi>And you did reſolve wiſely, when you entred into thoughts of ſur<g ref="char:EOLhyphen"/>rendring it, together with ſuch Liberties and Rights, as were annex'd to your</hi> Corporation; <hi>and to lay them at His Majeſty's Feet, with an humble requeſt, that He would grant you back what he thought moſt ſuitable for you.</hi>
+            </p>
+            <p>
+               <hi>And you did it ſeaſonably in point of time, before too much notice had been taken above, of ſome extravagancies that had happen'd here below; which might otherwiſe have produc'd inconvenient effects.</hi>
+            </p>
+            <p>
+               <hi>The King moſt Graciouſly accepted them; not with any thoughts (you do ſee) of abridging your Liberties, retaining your Re<g ref="char:EOLhyphen"/>venues, or cutting off any Branch of your former Authority in the Government of this Town.</hi>
+            </p>
+            <p>
+               <hi>For they are all re-granted to you to a Tittle, together with ſome other accommodations in your Government, which you did requeſt.</hi>
+            </p>
+            <p>
+               <hi>If you could have thought on any more advantages, and would have deſired them, I have reaſon to believe you might have had them; but indeed the King hath been ſo kind to you, that you cannot quickly find out what he hath not already granted you.</hi>
+            </p>
+            <p>
+               <hi>His Majeſty hath reſerved only to himſelf, (which is indeed a moſt Gracious Favour to you all) that whereas you have heretofore been Subject to His Correction if you did ill: now He has made it His care (by way of prevention) that you may not hereafter do amiſs.</hi>
+            </p>
+            <p>
+               <hi>And now may you (under the Providence of Almighty God) date your Felicities from this time, if you pleaſe.</hi>
+            </p>
+            <p>
+               <hi>For it reſts only, that you of the Loyal Party be conſtant and united; and the rather, becauſe the Seditious have been broken in their meaſures of the late Plot, and have ſince then, made it their buſineſs to gain a great point in ſowing Diviſions among the well affected in ſeveral parts of the Nation.</hi>
+            </p>
+            <p>
+               <hi>Is there any among you have been tainted with ill Principles that you revolve often in your minds? now there is an eye upon you, which will have a reſpect to Juſtice, as well as Mercy.</hi>
+            </p>
+            <p>
+               <hi>And that you do ſhew your ſelves humbly grateful to the King who has graciouſly received your Addreſs, paſs'd by what former failings has been among you, and given you theſe good things, and to conclude that you bear Faith and true Allegiance to His Majeſty; and to His Heirs and Lawful Succeſſors by Birth-right, according to the Ancient and Fundamental Laws of the Crown and Kingdom: For they certainly will prove the beſt ſupport of the Eſtabliſhed Go<g ref="char:EOLhyphen"/>vernment, in </hi>Church <hi>and</hi> State.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
